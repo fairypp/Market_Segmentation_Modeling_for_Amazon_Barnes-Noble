@@ -1,6 +1,6 @@
 ## Market Segmentation Modeling for Amazon and Barnes&Noble
 
-This is a course project done at the Advanced Business Intelligence class of UTDallas.  
+This is a course project done at the Advanced Business Analytics/Intelligence class of UTDallas.  
 Topic is: Market Segmentation Modeling for Amazon Barnes&Noble  
 Programming language: SAS  
 
