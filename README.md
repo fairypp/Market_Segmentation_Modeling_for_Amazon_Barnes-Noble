@@ -10,5 +10,5 @@ Programming language: SAS
 2. Discovered 4 influential demographics factors on customer groups by using the NBD regression model 
 3. Estimated customer’s purchase propensity probability by applying the logistic regression model 
 
-All related codes are commented and included in the attached report "BookBuyingInsightsforAmazonandBN.pdf" 
-All detailed analytics are also included in the attached report. 
+All related codes are commented and included in the attached report "BookBuyingInsightsforAmazonandBN.pdf"    
+All detailed analytics are also included in the attached report.  
