@@ -1,8 +1,8 @@
 # fairypp-Market_Segmentation_Modeling_for_Amazon_Barnes-Noble
 
-This is a course project done at the Advanced Business Intelligence class of UTDallas.
-Topic is: Market Segmentation Modeling for Amazon Barnes&Noble
-Programming language: SAS
+This is a course project done at the Advanced Business Intelligence class of UTDallas.  
+Topic is: Market Segmentation Modeling for Amazon Barnes&Noble  
+Programming language: SAS  
 
 ### Summary:
 
